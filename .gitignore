@@ -1,0 +1,9 @@
+# Resume formats, ignored by default so a file you were only testing with
+# doesn't get committed by accident. Use `git add -f` if you do want one tracked.
+*.pdf
+*.docx
+*.doc
+*.rtf
+
+__pycache__/
+*.pyc
