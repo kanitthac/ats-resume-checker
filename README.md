@@ -83,9 +83,9 @@ A `.docx` or `.pdf` gets you one extra check that plain text can't support. See
 1. **Layout & Formatting**: can an ATS read your file at all?
 2. **Structure & Headings**: are your sections named and ordered the way an ATS
    expects?
-3. **Keywords & Optimization**: does your resume use this posting's words? You
-   get exact matches and near-matches reported separately, because they disagree
-   more often than people expect.
+3. **Keywords & Optimization**: does your resume use this posting's words? Exact
+   matches and near-matches are listed separately. A filter looking for "quality
+   assurance" may not find "QA", though a recruiter would count it.
 4. **Content Quality**: do your bullets show results, or only duties?
 5. **Contact & Length**: is your contact block complete and readable, and is the
    resume the right length?
